@@ -1,5 +1,5 @@
-# MCDA
-MCDA - Move Chromebooks Automatically - Google Apps Script version
+# MCBA
+MCBA - Move Chromebooks Automatically - Google Apps Script version
 
 ## Do note!
 MCBA will soon be altered to use GAMADV-XTD3 to push data to the Sheets Devices and Users. So this GAS version will not be developed much longer. A new repo will carry on with the shorter name MCBA.
