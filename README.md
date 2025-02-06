@@ -1,3 +1,6 @@
+# Replaced, don't use.
+This script was replaced with [MCBoxA](Ahttps://github.com/NoSubstitute/MCBoxA).
+
 # MCBA
 MCBA - Move Chromebooks Automatically - Google Apps Script version
 
